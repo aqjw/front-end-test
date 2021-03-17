@@ -1,4 +1,4 @@
-# Тестовое font-end
+# Тестовое front-end
 
 1. Сделать оценку времени
 2. Сверстать страницу - [Homepage](https://github.com/aqjw/front-end-test/blob/main/Homepage.psd)
